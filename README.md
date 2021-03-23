@@ -1,2 +1,2 @@
-# T-D-Taxonomy
-WiKi for Transmission and Distribution assets
+# Transmission Taxonomy
+WiKi for Transmission assets
